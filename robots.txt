@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-39myyx.smart3st.com/sitemap.xml
